@@ -1,0 +1,1 @@
+ C:\\projects\\flutter_project\\naveli_2023\\.dart_tool\\flutter_build\\80e944964bbd6bf9e045bb6787c33be6\\native_assets.yaml: 
